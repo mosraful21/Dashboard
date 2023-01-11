@@ -1,0 +1,13 @@
+.sidebar {
+    height: 100vh;
+}
+
+.drop-menu{
+    margin-left: 100px;
+}
+
+.active{
+    background: rgba(238, 238, 238, 0.2);
+    padding: 1px 0px;
+    
+}

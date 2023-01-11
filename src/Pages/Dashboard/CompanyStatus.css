@@ -1,0 +1,12 @@
+.btns{
+    color: #fff;
+    padding: 5px 15px;
+    background: #1E2772;
+    font-family: 'Poppins';
+    border-radius: 10px;
+}
+
+.btns:hover{
+    background: rgb(230, 127, 49);
+    font-size: 17px;
+}
