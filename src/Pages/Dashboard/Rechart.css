@@ -1,0 +1,20 @@
+span {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 10px;
+    line-height: 91.5%;
+    align-items: center;
+    color: #BCBCBC;
+}
+
+.btnss {
+    color: #fff;
+    padding: 5px 15px;
+    background: #1E2772;
+    font-family: 'Poppins';
+    border-radius: 10px;
+}
+
+.rechatt{
+    font-size: 10px !important;
+}

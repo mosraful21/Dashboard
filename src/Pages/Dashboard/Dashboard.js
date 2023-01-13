@@ -1,5 +1,6 @@
 import React from 'react';
 import CompanyStatus from './CompanyStatus';
+import Rechart from './Rechart';
 
 const status = [
     {
@@ -39,7 +40,14 @@ const Dashboard = () => {
                     ></CompanyStatus>)
                 }
             </div>
-            <hr />
+<hr className='mt-5'/>
+
+            <p className='text-black font-bold mt-16 mb-4'>Expense Report</p>
+            <div className='flex'>
+                <div className='w-1/2 bg-white rounded-xl'>
+                    <Rechart></Rechart>
+                </div>
+            </div>
         </div>
     );
 };

@@ -1,4 +1,4 @@
-.btns{
+.btns {
     color: #fff;
     padding: 5px 15px;
     background: #1E2772;
@@ -6,7 +6,18 @@
     border-radius: 10px;
 }
 
-.btns:hover{
+.btns:hover {
     background: rgb(230, 127, 49);
     font-size: 17px;
+}
+
+.text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 91.5%;
+    display: flex;
+    align-items: center;
+
+    color: #A5A5A5;
 }

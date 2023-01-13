@@ -1,5 +1,5 @@
 .sidebar {
-    height: 100vh;
+    height: 100%;
 }
 
 .drop-menu{
@@ -10,4 +10,9 @@
     background: rgba(238, 238, 238, 0.2);
     padding: 1px 0px;
     
+}
+
+.logout:hover{
+    background-color: orangered;
+    padding: 2px;
 }
